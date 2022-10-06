@@ -1,14 +1,9 @@
 #!/usr/bin/python3
-"""a square class"""
+""" Create Class """
 
 
 class Square:
-    """Derives a square """
+    """ Empty Class """
     def __init__(self, size):
-        """Initializes attributes
-        Args:
-            size (int): value to initialize `size`
-        Note:
-            Do not include the `self` parameter in the ``Args`` section.
-        """
-        self.__size = 
+        """ initialization """
+        self.__size = size
